@@ -1,0 +1,4 @@
+window.APP_CONFIG = {
+  supabaseUrl: "PASTE_YOUR_SUPABASE_PROJECT_URL",
+  supabaseAnonKey: "PASTE_YOUR_SUPABASE_ANON_KEY"
+};
