@@ -108,6 +108,13 @@ window.COURSES = [
     "program": "Computer Science",
     "level": "Level 2",
     "group": "Elective Courses",
+    "code": "BSD234",
+    "name": "Partial Differential Equation and its numerical solution"
+  },
+  {
+    "program": "Computer Science",
+    "level": "Level 2",
+    "group": "Elective Courses",
     "code": "CSD231",
     "name": "Concepts of programming Languages"
   },

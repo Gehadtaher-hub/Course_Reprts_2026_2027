@@ -1,0 +1,30 @@
+{
+  "tool": "artifact-validator",
+  "schemaVersion": "2.0",
+  "validatorVersion": "3.2.13",
+  "result": "valid",
+  "exitCode": 0,
+  "input": {
+    "path": "/mnt/data/public_course_results_portal/course_catalog.xlsx",
+    "sha256": "1471708173bfc6a00d7f41782c17e5a038390554ab65f4b56c72d0aeab47bb58",
+    "sizeBytes": 9114,
+    "kind": "xlsx"
+  },
+  "output": null,
+  "backup": null,
+  "repair": {
+    "mode": "compat",
+    "applied": [],
+    "revalidated": false,
+    "status": "not_needed",
+    "outputPublished": false
+  },
+  "packageError": null,
+  "summary": {
+    "errorCount": 0,
+    "warningCount": 0,
+    "repairableCount": 0,
+    "issueCount": 0
+  },
+  "issues": []
+}

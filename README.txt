@@ -18,3 +18,9 @@ GitHub will create folders when you upload a path or you can add them locally be
 
 PRIVACY
 This portal has no login. Only publish aggregated results and survey summaries. Do not publish student names, IDs, individual grades, or identifiable survey responses.
+
+SHARED LEVEL 2 ELECTIVES
+The same six elective courses are displayed for both Computer Science and Information Systems. Upload each PDF only once using:
+pdfs/shared/level-2-electives/bsd229/course-results.pdf
+pdfs/shared/level-2-electives/bsd229/course-survey.pdf
+Repeat for BSD233, BSD234, CSD231, ISD225, and ISD232.
