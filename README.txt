@@ -24,3 +24,12 @@ The same six elective courses are displayed for both Computer Science and Inform
 pdfs/shared/level-2-electives/bsd229/course-results.pdf
 pdfs/shared/level-2-electives/bsd229/course-survey.pdf
 Repeat for BSD233, BSD234, CSD231, ISD225, and ISD232.
+
+COURSE CORRECTIONS
+BSD234 was removed from Level 2 electives. BSD308 Partial Differential Equation remains in Level 3 electives. CSD445 Introduction to Machine Learning is listed in Level 4 electives for both programs.
+
+LATEST ELECTIVE CORRECTION
+BSD308 Partial Differential Equation was removed from Level 3 electives. BSD234 Partial Differential Equation is retained in Level 2 electives for both programs.
+
+CSD445 CORRECTION
+Computer Science: Level 4 Elective Courses. Information Systems: Level 4 Second Semester.
