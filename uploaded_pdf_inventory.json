@@ -1,0 +1,149 @@
+[
+  {
+    "code": "CSD102",
+    "program": "computer-science",
+    "arabic_name": "أساسيات علوم الحاسب",
+    "target": "pdfs/2025-2026/computer-science/csd102/course-survey.pdf",
+    "binary_included": false
+  },
+  {
+    "code": "ISD101",
+    "program": "computer-science",
+    "arabic_name": "أساسيات نظم المعلومات",
+    "target": "pdfs/2025-2026/computer-science/isd101/course-survey.pdf",
+    "binary_included": false
+  },
+  {
+    "code": "BSD101",
+    "program": "computer-science",
+    "arabic_name": "تفاضل",
+    "target": "pdfs/2025-2026/computer-science/bsd101/course-survey.pdf",
+    "binary_included": false
+  },
+  {
+    "code": "CSD335",
+    "program": "computer-science",
+    "arabic_name": "لغة التجميع",
+    "target": "pdfs/2025-2026/computer-science/csd335/course-survey.pdf",
+    "binary_included": false
+  },
+  {
+    "code": "CSD334",
+    "program": "computer-science",
+    "arabic_name": "معالجة الصور الرقمية",
+    "target": "pdfs/2025-2026/computer-science/csd334/course-survey.pdf",
+    "binary_included": false
+  },
+  {
+    "code": "CSD333",
+    "program": "computer-science",
+    "arabic_name": "نظم التشغيل",
+    "target": "pdfs/2025-2026/computer-science/csd333/course-survey.pdf",
+    "binary_included": false
+  },
+  {
+    "code": "ISD471",
+    "program": "information-systems",
+    "arabic_name": "التنقيب عن البيانات",
+    "target": "pdfs/2025-2026/information-systems/isd471/course-survey.pdf",
+    "binary_included": false
+  },
+  {
+    "code": "ISD455",
+    "program": "information-systems",
+    "arabic_name": "الصحة الإلكترونية",
+    "target": "pdfs/2025-2026/information-systems/isd455/course-survey.pdf",
+    "binary_included": false
+  },
+  {
+    "code": "ISD441",
+    "program": "information-systems",
+    "arabic_name": "المعلوماتية الحيوية",
+    "target": "pdfs/2025-2026/information-systems/isd441/course-survey.pdf",
+    "binary_included": false
+  },
+  {
+    "code": "ISD446P1",
+    "program": "information-systems",
+    "arabic_name": "مشروع التخرج 1",
+    "target": "pdfs/2025-2026/information-systems/isd446p1/course-survey.pdf",
+    "binary_included": false
+  },
+  {
+    "code": "ISD444",
+    "program": "information-systems",
+    "arabic_name": "نظم المعلومات الطبية",
+    "target": "pdfs/2025-2026/information-systems/isd444/course-survey.pdf",
+    "binary_included": false
+  },
+  {
+    "code": "CSD223",
+    "program": "computer-science",
+    "arabic_name": "البرمجة الشيئية",
+    "target": "pdfs/2025-2026/computer-science/csd223/course-survey.pdf",
+    "binary_included": false
+  },
+  {
+    "code": "BSD220",
+    "program": "computer-science",
+    "arabic_name": "العمليات التصادفية",
+    "target": "pdfs/2025-2026/computer-science/bsd220/course-survey.pdf",
+    "binary_included": false
+  },
+  {
+    "code": "BSD222",
+    "program": "computer-science",
+    "arabic_name": "بحوث العمليات",
+    "target": "pdfs/2025-2026/computer-science/bsd222/course-survey.pdf",
+    "binary_included": false
+  },
+  {
+    "code": "ISD224",
+    "program": "computer-science",
+    "arabic_name": "برمجة صفحات الويب",
+    "target": "pdfs/2025-2026/computer-science/isd224/course-survey.pdf",
+    "binary_included": false
+  },
+  {
+    "code": "ISD225",
+    "program": "computer-science",
+    "arabic_name": "نظرية المعلومات",
+    "target": "pdfs/2025-2026/computer-science/isd225/course-survey.pdf",
+    "binary_included": false
+  },
+  {
+    "code": "CSD221",
+    "program": "computer-science",
+    "arabic_name": "هياكل البيانات",
+    "target": "pdfs/2025-2026/computer-science/csd221/course-survey.pdf",
+    "binary_included": false
+  },
+  {
+    "code": "BSD103",
+    "program": "computer-science",
+    "arabic_name": "رياضيات غير متصلة",
+    "target": "pdfs/2025-2026/computer-science/bsd103/course-survey.pdf",
+    "binary_included": false
+  },
+  {
+    "code": "UNI113",
+    "program": "computer-science",
+    "arabic_name": "قضايا مجتمعية",
+    "target": "pdfs/2025-2026/computer-science/uni113/course-survey.pdf",
+    "binary_included": false
+  },
+  {
+    "code": "UNI112",
+    "program": "computer-science",
+    "arabic_name": "لغة إنجليزية",
+    "target": "pdfs/2025-2026/computer-science/uni112/course-survey.pdf",
+    "binary_included": false
+  },
+  {
+    "code": "ISD102",
+    "program": "computer-science",
+    "arabic_name": "مقدمة في قواعد البيانات",
+    "target": "pdfs/2025-2026/computer-science/isd102/course-survey.pdf",
+    "binary_included": true
+  }
+]
