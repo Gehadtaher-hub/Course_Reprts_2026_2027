@@ -1,78 +1,5 @@
-window.COURSES=[
+window.COURSES = [
   {
-    "year": "2025-2026",
-    "program": "Computer Science",
-    "level": "Level 1",
-    "group": "First Semester",
-    "code": "BSD101",
-    "name": "Calculus"
-  },
-  {
-    "year": "2025-2026",
-    "program": "Computer Science",
-    "level": "Level 1",
-    "group": "First Semester",
-    "code": "BSD103",
-    "name": "Discrete Mathematics"
-  },
-  {
-    "year": "2025-2026",
-    "program": "Computer Science",
-    "level": "Level 1",
-    "group": "First Semester",
-    "code": "CSD102",
-    "name": "Basics of Computer Science"
-  },
-  {
-    "year": "2025-2026",
-    "program": "Computer Science",
-    "level": "Level 1",
-    "group": "First Semester",
-    "code": "ISD101",
-    "name": "Fundamentals of Information Systems"
-  },
-  {
-    "year": "2025-2026",
-    "program": "Computer Science",
-    "level": "Level 1",
-    "group": "First Semester",
-    "code": "ISD102",
-    "name": "Introduction to Database Systems"
-  },
-  {
-    "year": "2025-2026",
-    "program": "Computer Science",
-    "level": "Level 1",
-    "group": "First Semester",
-    "code": "UNI112",
-    "name": "English Language"
-  },
-  {
-    "year": "2025-2026",
-    "program": "Computer Science",
-    "level": "Level 1",
-    "group": "First Semester",
-    "code": "UNI113",
-    "name": "Societal Issues"
-  },
-  {
-    "year": "2025-2026",
-    "program": "Computer Science",
-    "level": "Level 1",
-    "group": "Second Semester",
-    "code": "BSD104",
-    "name": "Linear Algebra"
-  },
-  {
-    "year": "2025-2026",
-    "program": "Computer Science",
-    "level": "Level 1",
-    "group": "Second Semester",
-    "code": "BSD105",
-    "name": "Statistics and Probabilities"
-  },
-  {
-    "year": "2025-2026",
     "program": "Computer Science",
     "level": "Level 1",
     "group": "Second Semester",
@@ -80,7 +7,13 @@ window.COURSES=[
     "name": "Digital Logic Design"
   },
   {
-    "year": "2025-2026",
+    "program": "Computer Science",
+    "level": "Level 1",
+    "group": "First Semester",
+    "code": "CSD102",
+    "name": "Basics of Computer Science"
+  },
+  {
     "program": "Computer Science",
     "level": "Level 1",
     "group": "Second Semester",
@@ -88,87 +21,6 @@ window.COURSES=[
     "name": "Fundamentals of Programming"
   },
   {
-    "year": "2025-2026",
-    "program": "Computer Science",
-    "level": "Level 1",
-    "group": "Second Semester",
-    "code": "ISD104",
-    "name": "System Analysis and Design"
-  },
-  {
-    "year": "2025-2026",
-    "program": "Computer Science",
-    "level": "Level 1",
-    "group": "Second Semester",
-    "code": "UNI114",
-    "name": "Introduction to Quality"
-  },
-  {
-    "year": "2025-2026",
-    "program": "Computer Science",
-    "level": "Level 2",
-    "group": "Elective Courses",
-    "code": "BSD229",
-    "name": "Advanced Math-2"
-  },
-  {
-    "year": "2025-2026",
-    "program": "Computer Science",
-    "level": "Level 2",
-    "group": "Elective Courses",
-    "code": "BSD233",
-    "name": "Numerical Analysis"
-  },
-  {
-    "year": "2025-2026",
-    "program": "Computer Science",
-    "level": "Level 2",
-    "group": "Elective Courses",
-    "code": "BSD234",
-    "name": "Partial Differential Equation and its numerical solution"
-  },
-  {
-    "year": "2025-2026",
-    "program": "Computer Science",
-    "level": "Level 2",
-    "group": "Elective Courses",
-    "code": "CSD231",
-    "name": "Concepts of Programming Languages"
-  },
-  {
-    "year": "2025-2026",
-    "program": "Computer Science",
-    "level": "Level 2",
-    "group": "Elective Courses",
-    "code": "ISD225",
-    "name": "Information Theory"
-  },
-  {
-    "year": "2025-2026",
-    "program": "Computer Science",
-    "level": "Level 2",
-    "group": "Elective Courses",
-    "code": "ISD232",
-    "name": "Web Technology"
-  },
-  {
-    "year": "2025-2026",
-    "program": "Computer Science",
-    "level": "Level 2",
-    "group": "First Semester",
-    "code": "BSD220",
-    "name": "Stochastic Processes"
-  },
-  {
-    "year": "2025-2026",
-    "program": "Computer Science",
-    "level": "Level 2",
-    "group": "First Semester",
-    "code": "BSD222",
-    "name": "Operations Research"
-  },
-  {
-    "year": "2025-2026",
     "program": "Computer Science",
     "level": "Level 2",
     "group": "First Semester",
@@ -176,7 +28,6 @@ window.COURSES=[
     "name": "Data Structures"
   },
   {
-    "year": "2025-2026",
     "program": "Computer Science",
     "level": "Level 2",
     "group": "First Semester",
@@ -184,47 +35,6 @@ window.COURSES=[
     "name": "Object Oriented Programming"
   },
   {
-    "year": "2025-2026",
-    "program": "Computer Science",
-    "level": "Level 2",
-    "group": "First Semester",
-    "code": "ISD224",
-    "name": "Web Pages Programming"
-  },
-  {
-    "year": "2025-2026",
-    "program": "Computer Science",
-    "level": "Level 2",
-    "group": "Second Semester",
-    "code": "BSD226",
-    "name": "Technical Writing"
-  },
-  {
-    "year": "2025-2026",
-    "program": "Computer Science",
-    "level": "Level 2",
-    "group": "Second Semester",
-    "code": "BSD227",
-    "name": "Ordinary Differential Equations"
-  },
-  {
-    "year": "2025-2026",
-    "program": "Computer Science",
-    "level": "Level 2",
-    "group": "Second Semester",
-    "code": "BSD228",
-    "name": "Advanced Math-1"
-  },
-  {
-    "year": "2025-2026",
-    "program": "Computer Science",
-    "level": "Level 2",
-    "group": "Second Semester",
-    "code": "BSD232",
-    "name": "Physics"
-  },
-  {
-    "year": "2025-2026",
     "program": "Computer Science",
     "level": "Level 2",
     "group": "Second Semester",
@@ -232,95 +42,13 @@ window.COURSES=[
     "name": "Analysis of Algorithms"
   },
   {
-    "year": "2025-2026",
     "program": "Computer Science",
     "level": "Level 2",
-    "group": "Second Semester",
-    "code": "ISD229",
-    "name": "Electronic Business"
-  },
-  {
-    "year": "2025-2026",
-    "program": "Computer Science",
-    "level": "Level 3",
     "group": "Elective Courses",
-    "code": "CSD339",
-    "name": "Mobile Computing"
+    "code": "CSD231",
+    "name": "Concepts of Programming Languages"
   },
   {
-    "year": "2025-2026",
-    "program": "Computer Science",
-    "level": "Level 3",
-    "group": "Elective Courses",
-    "code": "CSD342",
-    "name": "Advanced Programming Languages"
-  },
-  {
-    "year": "2025-2026",
-    "program": "Computer Science",
-    "level": "Level 3",
-    "group": "Elective Courses",
-    "code": "CSD343",
-    "name": "Digital Signal Processing"
-  },
-  {
-    "year": "2025-2026",
-    "program": "Computer Science",
-    "level": "Level 3",
-    "group": "Elective Courses",
-    "code": "CSD344",
-    "name": "Logic Programming"
-  },
-  {
-    "year": "2025-2026",
-    "program": "Computer Science",
-    "level": "Level 3",
-    "group": "Elective Courses",
-    "code": "CSD345",
-    "name": "Computer Arabization"
-  },
-  {
-    "year": "2025-2026",
-    "program": "Computer Science",
-    "level": "Level 3",
-    "group": "Elective Courses",
-    "code": "CSD346",
-    "name": "Human Computer Interaction"
-  },
-  {
-    "year": "2025-2026",
-    "program": "Computer Science",
-    "level": "Level 3",
-    "group": "Elective Courses",
-    "code": "ISD303",
-    "name": "Information Visualization"
-  },
-  {
-    "year": "2025-2026",
-    "program": "Computer Science",
-    "level": "Level 3",
-    "group": "Elective Courses",
-    "code": "ISD335",
-    "name": "Security and Cryptography"
-  },
-  {
-    "year": "2025-2026",
-    "program": "Computer Science",
-    "level": "Level 3",
-    "group": "Elective Courses",
-    "code": "ISD338",
-    "name": "Big Data Analysis"
-  },
-  {
-    "year": "2025-2026",
-    "program": "Computer Science",
-    "level": "Level 3",
-    "group": "Elective Courses",
-    "code": "ISD352",
-    "name": "Knowledge Representation and Reasoning"
-  },
-  {
-    "year": "2025-2026",
     "program": "Computer Science",
     "level": "Level 3",
     "group": "First Semester",
@@ -328,7 +56,6 @@ window.COURSES=[
     "name": "Artificial Intelligence"
   },
   {
-    "year": "2025-2026",
     "program": "Computer Science",
     "level": "Level 3",
     "group": "First Semester",
@@ -336,7 +63,6 @@ window.COURSES=[
     "name": "Computer Architecture"
   },
   {
-    "year": "2025-2026",
     "program": "Computer Science",
     "level": "Level 3",
     "group": "First Semester",
@@ -344,7 +70,6 @@ window.COURSES=[
     "name": "Operating Systems"
   },
   {
-    "year": "2025-2026",
     "program": "Computer Science",
     "level": "Level 3",
     "group": "First Semester",
@@ -352,7 +77,6 @@ window.COURSES=[
     "name": "Digital Image Processing"
   },
   {
-    "year": "2025-2026",
     "program": "Computer Science",
     "level": "Level 3",
     "group": "First Semester",
@@ -360,7 +84,6 @@ window.COURSES=[
     "name": "Assembly Language"
   },
   {
-    "year": "2025-2026",
     "program": "Computer Science",
     "level": "Level 3",
     "group": "Second Semester",
@@ -368,7 +91,6 @@ window.COURSES=[
     "name": "Theory and Design of Compilers"
   },
   {
-    "year": "2025-2026",
     "program": "Computer Science",
     "level": "Level 3",
     "group": "Second Semester",
@@ -376,7 +98,6 @@ window.COURSES=[
     "name": "Computer Graphics"
   },
   {
-    "year": "2025-2026",
     "program": "Computer Science",
     "level": "Level 3",
     "group": "Second Semester",
@@ -384,7 +105,13 @@ window.COURSES=[
     "name": "Introduction to Computer Networks"
   },
   {
-    "year": "2025-2026",
+    "program": "Computer Science",
+    "level": "Level 3",
+    "group": "Elective Courses",
+    "code": "CSD339",
+    "name": "Mobile Computing"
+  },
+  {
     "program": "Computer Science",
     "level": "Level 3",
     "group": "Second Semester",
@@ -392,7 +119,6 @@ window.COURSES=[
     "name": "Simulation and Modeling"
   },
   {
-    "year": "2025-2026",
     "program": "Computer Science",
     "level": "Level 3",
     "group": "Second Semester",
@@ -400,79 +126,41 @@ window.COURSES=[
     "name": "Software Engineering"
   },
   {
-    "year": "2025-2026",
     "program": "Computer Science",
-    "level": "Level 4",
+    "level": "Level 3",
     "group": "Elective Courses",
-    "code": "CSD445",
-    "name": "Introduction to Machine Learning"
+    "code": "CSD342",
+    "name": "Advanced Programming Languages"
   },
   {
-    "year": "2025-2026",
     "program": "Computer Science",
-    "level": "Level 4",
+    "level": "Level 3",
     "group": "Elective Courses",
-    "code": "CSD446",
-    "name": "Optimization Methods"
+    "code": "CSD343",
+    "name": "Digital Signal Processing"
   },
   {
-    "year": "2025-2026",
     "program": "Computer Science",
-    "level": "Level 4",
+    "level": "Level 3",
     "group": "Elective Courses",
-    "code": "CSD448",
-    "name": "Parallel Processing"
+    "code": "CSD344",
+    "name": "Logic Programming"
   },
   {
-    "year": "2025-2026",
     "program": "Computer Science",
-    "level": "Level 4",
+    "level": "Level 3",
     "group": "Elective Courses",
-    "code": "CSD452",
-    "name": "Dynamic Languages"
+    "code": "CSD345",
+    "name": "Computer Arabization"
   },
   {
-    "year": "2025-2026",
     "program": "Computer Science",
-    "level": "Level 4",
+    "level": "Level 3",
     "group": "Elective Courses",
-    "code": "CSD453",
-    "name": "Introduction to Quantum Computing"
+    "code": "CSD346",
+    "name": "Human Computer Interaction"
   },
   {
-    "year": "2025-2026",
-    "program": "Computer Science",
-    "level": "Level 4",
-    "group": "Elective Courses",
-    "code": "CSD455",
-    "name": "Selected Topics in Computer Science"
-  },
-  {
-    "year": "2025-2026",
-    "program": "Computer Science",
-    "level": "Level 4",
-    "group": "Elective Courses",
-    "code": "CSD458",
-    "name": "Cyber Security"
-  },
-  {
-    "year": "2025-2026",
-    "program": "Computer Science",
-    "level": "Level 4",
-    "group": "Elective Courses",
-    "code": "ISD441",
-    "name": "Bioinformatics"
-  },
-  {
-    "year": "2025-2026",
-    "program": "Computer Science",
-    "level": "Level 4",
-    "group": "Elective Courses",
-    "code": "ISD471",
-    "name": "Data Mining"
-  },
-  {
-    "year": "2025-2026",
     "program": "Computer Science",
     "level": "Level 4",
     "group": "First Semester",
@@ -480,23 +168,6 @@ window.COURSES=[
     "name": "Mobile Communication Systems"
   },
   {
-    "year": "2025-2026",
-    "program": "Computer Science",
-    "level": "Level 4",
-    "group": "First Semester",
-    "code": "CSD443",
-    "name": "Computer Vision Systems"
-  },
-  {
-    "year": "2025-2026",
-    "program": "Computer Science",
-    "level": "Level 4",
-    "group": "First Semester",
-    "code": "CSD444",
-    "name": "Distributed Systems"
-  },
-  {
-    "year": "2025-2026",
     "program": "Computer Science",
     "level": "Level 4",
     "group": "Second Semester",
@@ -504,7 +175,34 @@ window.COURSES=[
     "name": "Neural Networks and Deep Learning"
   },
   {
-    "year": "2025-2026",
+    "program": "Computer Science",
+    "level": "Level 4",
+    "group": "First Semester",
+    "code": "CSD443",
+    "name": "Computer Vision Systems"
+  },
+  {
+    "program": "Computer Science",
+    "level": "Level 4",
+    "group": "First Semester",
+    "code": "CSD444",
+    "name": "Distributed Systems"
+  },
+  {
+    "program": "Computer Science",
+    "level": "Level 4",
+    "group": "Elective Courses",
+    "code": "CSD445",
+    "name": "Introduction to Machine Learning"
+  },
+  {
+    "program": "Computer Science",
+    "level": "Level 4",
+    "group": "Elective Courses",
+    "code": "CSD446",
+    "name": "Optimization Methods"
+  },
+  {
     "program": "Computer Science",
     "level": "Level 4",
     "group": "Second Semester",
@@ -512,7 +210,13 @@ window.COURSES=[
     "name": "Cloud Computing"
   },
   {
-    "year": "2025-2026",
+    "program": "Computer Science",
+    "level": "Level 4",
+    "group": "Elective Courses",
+    "code": "CSD448",
+    "name": "Parallel Processing"
+  },
+  {
     "program": "Computer Science",
     "level": "Level 4",
     "group": "Second Semester",
@@ -520,31 +224,237 @@ window.COURSES=[
     "name": "Computer and Network Security"
   },
   {
-    "year": "2025-2026",
-    "program": "Information Systems",
+    "program": "Computer Science",
+    "level": "Level 4",
+    "group": "First Semester",
+    "code": "CSD452",
+    "name": "Dynamic Languages"
+  },
+  {
+    "program": "Computer Science",
+    "level": "Level 4",
+    "group": "Elective Courses",
+    "code": "CSD453",
+    "name": "Introduction to Quantum Computing"
+  },
+  {
+    "program": "Computer Science",
+    "level": "Level 4",
+    "group": "Elective Courses",
+    "code": "CSD455",
+    "name": "Selected Topics in Computer Science"
+  },
+  {
+    "program": "Computer Science",
+    "level": "Level 4",
+    "group": "Elective Courses",
+    "code": "CSD458",
+    "name": "Cyber Security"
+  },
+  {
+    "program": "Computer Science",
     "level": "Level 1",
     "group": "First Semester",
     "code": "BSD101",
     "name": "Calculus"
   },
   {
-    "year": "2025-2026",
-    "program": "Information Systems",
+    "program": "Computer Science",
     "level": "Level 1",
     "group": "First Semester",
     "code": "BSD103",
     "name": "Discrete Mathematics"
   },
   {
-    "year": "2025-2026",
-    "program": "Information Systems",
+    "program": "Computer Science",
     "level": "Level 1",
-    "group": "First Semester",
-    "code": "CSD102",
-    "name": "Basics of Computer Science"
+    "group": "Second Semester",
+    "code": "BSD104",
+    "name": "Linear Algebra"
   },
   {
-    "year": "2025-2026",
+    "program": "Computer Science",
+    "level": "Level 1",
+    "group": "Second Semester",
+    "code": "BSD105",
+    "name": "Statistics and Probabilities"
+  },
+  {
+    "program": "Computer Science",
+    "level": "Level 2",
+    "group": "First Semester",
+    "code": "BSD220",
+    "name": "Stochastic Processes"
+  },
+  {
+    "program": "Computer Science",
+    "level": "Level 2",
+    "group": "First Semester",
+    "code": "BSD222",
+    "name": "Operations Research"
+  },
+  {
+    "program": "Computer Science",
+    "level": "Level 2",
+    "group": "Second Semester",
+    "code": "BSD226",
+    "name": "Technical Writing"
+  },
+  {
+    "program": "Computer Science",
+    "level": "Level 2",
+    "group": "Second Semester",
+    "code": "BSD227",
+    "name": "Ordinary Differential Equations"
+  },
+  {
+    "program": "Computer Science",
+    "level": "Level 2",
+    "group": "Second Semester",
+    "code": "BSD228",
+    "name": "Advanced Math-1"
+  },
+  {
+    "program": "Computer Science",
+    "level": "Level 2",
+    "group": "Elective Courses",
+    "code": "BSD229",
+    "name": "Advanced Math-2"
+  },
+  {
+    "program": "Computer Science",
+    "level": "Level 2",
+    "group": "Second Semester",
+    "code": "BSD232",
+    "name": "Physics"
+  },
+  {
+    "program": "Computer Science",
+    "level": "Level 2",
+    "group": "Elective Courses",
+    "code": "BSD233",
+    "name": "Numerical Analysis"
+  },
+  {
+    "program": "Computer Science",
+    "level": "Level 2",
+    "group": "Elective Courses",
+    "code": "BSD234",
+    "name": "Partial Differential Equation and its numerical solution"
+  },
+  {
+    "program": "Computer Science",
+    "level": "Level 1",
+    "group": "First Semester",
+    "code": "ISD101",
+    "name": "Fundamentals of Information Systems"
+  },
+  {
+    "program": "Computer Science",
+    "level": "Level 1",
+    "group": "First Semester",
+    "code": "ISD102",
+    "name": "Introduction to Database Systems"
+  },
+  {
+    "program": "Computer Science",
+    "level": "Level 1",
+    "group": "Second Semester",
+    "code": "ISD104",
+    "name": "System Analysis and Design"
+  },
+  {
+    "program": "Computer Science",
+    "level": "Level 2",
+    "group": "First Semester",
+    "code": "ISD224",
+    "name": "Web Pages Programming"
+  },
+  {
+    "program": "Computer Science",
+    "level": "Level 2",
+    "group": "Elective Courses",
+    "code": "ISD225",
+    "name": "Information Theory"
+  },
+  {
+    "program": "Computer Science",
+    "level": "Level 2",
+    "group": "Second Semester",
+    "code": "ISD229",
+    "name": "Electronic Business"
+  },
+  {
+    "program": "Computer Science",
+    "level": "Level 2",
+    "group": "Elective Courses",
+    "code": "ISD232",
+    "name": "Web Technology"
+  },
+  {
+    "program": "Computer Science",
+    "level": "Level 3",
+    "group": "Elective Courses",
+    "code": "ISD303",
+    "name": "Information Visualization"
+  },
+  {
+    "program": "Computer Science",
+    "level": "Level 3",
+    "group": "Elective Courses",
+    "code": "ISD335",
+    "name": "Security and Cryptography"
+  },
+  {
+    "program": "Computer Science",
+    "level": "Level 3",
+    "group": "Elective Courses",
+    "code": "ISD338",
+    "name": "Big Data Analysis"
+  },
+  {
+    "program": "Computer Science",
+    "level": "Level 3",
+    "group": "Elective Courses",
+    "code": "ISD352",
+    "name": "Knowledge Representation and Reasoning"
+  },
+  {
+    "program": "Computer Science",
+    "level": "Level 4",
+    "group": "Elective Courses",
+    "code": "ISD441",
+    "name": "Bioinformatics"
+  },
+  {
+    "program": "Computer Science",
+    "level": "Level 4",
+    "group": "Elective Courses",
+    "code": "ISD471",
+    "name": "Data Mining"
+  },
+  {
+    "program": "Computer Science",
+    "level": "Level 1",
+    "group": "First Semester",
+    "code": "UNI112",
+    "name": "English Language"
+  },
+  {
+    "program": "Computer Science",
+    "level": "Level 1",
+    "group": "First Semester",
+    "code": "UNI113",
+    "name": "Societal Issues"
+  },
+  {
+    "program": "Computer Science",
+    "level": "Level 1",
+    "group": "Second Semester",
+    "code": "UNI114",
+    "name": "Introduction to Quality"
+  },
+  {
     "program": "Information Systems",
     "level": "Level 1",
     "group": "First Semester",
@@ -552,7 +462,6 @@ window.COURSES=[
     "name": "Fundamentals of Information Systems"
   },
   {
-    "year": "2025-2026",
     "program": "Information Systems",
     "level": "Level 1",
     "group": "First Semester",
@@ -560,55 +469,6 @@ window.COURSES=[
     "name": "Introduction to Database Systems"
   },
   {
-    "year": "2025-2026",
-    "program": "Information Systems",
-    "level": "Level 1",
-    "group": "First Semester",
-    "code": "UNI112",
-    "name": "English Language"
-  },
-  {
-    "year": "2025-2026",
-    "program": "Information Systems",
-    "level": "Level 1",
-    "group": "First Semester",
-    "code": "UNI113",
-    "name": "Societal Issues"
-  },
-  {
-    "year": "2025-2026",
-    "program": "Information Systems",
-    "level": "Level 1",
-    "group": "Second Semester",
-    "code": "BSD104",
-    "name": "Linear Algebra"
-  },
-  {
-    "year": "2025-2026",
-    "program": "Information Systems",
-    "level": "Level 1",
-    "group": "Second Semester",
-    "code": "BSD105",
-    "name": "Statistics and Probabilities"
-  },
-  {
-    "year": "2025-2026",
-    "program": "Information Systems",
-    "level": "Level 1",
-    "group": "Second Semester",
-    "code": "CSD101",
-    "name": "Digital Logic Design"
-  },
-  {
-    "year": "2025-2026",
-    "program": "Information Systems",
-    "level": "Level 1",
-    "group": "Second Semester",
-    "code": "CSD106",
-    "name": "Fundamentals of Programming"
-  },
-  {
-    "year": "2025-2026",
     "program": "Information Systems",
     "level": "Level 1",
     "group": "Second Semester",
@@ -616,95 +476,6 @@ window.COURSES=[
     "name": "System Analysis and Design"
   },
   {
-    "year": "2025-2026",
-    "program": "Information Systems",
-    "level": "Level 1",
-    "group": "Second Semester",
-    "code": "UNI114",
-    "name": "Introduction to Quality"
-  },
-  {
-    "year": "2025-2026",
-    "program": "Information Systems",
-    "level": "Level 2",
-    "group": "Elective Courses",
-    "code": "BSD229",
-    "name": "Advanced Math-2"
-  },
-  {
-    "year": "2025-2026",
-    "program": "Information Systems",
-    "level": "Level 2",
-    "group": "Elective Courses",
-    "code": "BSD233",
-    "name": "Numerical Analysis"
-  },
-  {
-    "year": "2025-2026",
-    "program": "Information Systems",
-    "level": "Level 2",
-    "group": "Elective Courses",
-    "code": "BSD234",
-    "name": "Partial Differential Equation and its numerical solution"
-  },
-  {
-    "year": "2025-2026",
-    "program": "Information Systems",
-    "level": "Level 2",
-    "group": "Elective Courses",
-    "code": "CSD231",
-    "name": "Concepts of Programming Languages"
-  },
-  {
-    "year": "2025-2026",
-    "program": "Information Systems",
-    "level": "Level 2",
-    "group": "Elective Courses",
-    "code": "ISD225",
-    "name": "Information Theory"
-  },
-  {
-    "year": "2025-2026",
-    "program": "Information Systems",
-    "level": "Level 2",
-    "group": "Elective Courses",
-    "code": "ISD232",
-    "name": "Web Technology"
-  },
-  {
-    "year": "2025-2026",
-    "program": "Information Systems",
-    "level": "Level 2",
-    "group": "First Semester",
-    "code": "BSD220",
-    "name": "Stochastic Processes"
-  },
-  {
-    "year": "2025-2026",
-    "program": "Information Systems",
-    "level": "Level 2",
-    "group": "First Semester",
-    "code": "BSD222",
-    "name": "Operations Research"
-  },
-  {
-    "year": "2025-2026",
-    "program": "Information Systems",
-    "level": "Level 2",
-    "group": "First Semester",
-    "code": "CSD221",
-    "name": "Data Structures"
-  },
-  {
-    "year": "2025-2026",
-    "program": "Information Systems",
-    "level": "Level 2",
-    "group": "First Semester",
-    "code": "CSD223",
-    "name": "Object Oriented Programming"
-  },
-  {
-    "year": "2025-2026",
     "program": "Information Systems",
     "level": "Level 2",
     "group": "First Semester",
@@ -712,47 +483,13 @@ window.COURSES=[
     "name": "Web Pages Programming"
   },
   {
-    "year": "2025-2026",
     "program": "Information Systems",
     "level": "Level 2",
-    "group": "Second Semester",
-    "code": "BSD226",
-    "name": "Technical Writing"
+    "group": "Elective Courses",
+    "code": "ISD225",
+    "name": "Information Theory"
   },
   {
-    "year": "2025-2026",
-    "program": "Information Systems",
-    "level": "Level 2",
-    "group": "Second Semester",
-    "code": "BSD227",
-    "name": "Ordinary Differential Equations"
-  },
-  {
-    "year": "2025-2026",
-    "program": "Information Systems",
-    "level": "Level 2",
-    "group": "Second Semester",
-    "code": "BSD228",
-    "name": "Advanced Math-1"
-  },
-  {
-    "year": "2025-2026",
-    "program": "Information Systems",
-    "level": "Level 2",
-    "group": "Second Semester",
-    "code": "BSD232",
-    "name": "Physics"
-  },
-  {
-    "year": "2025-2026",
-    "program": "Information Systems",
-    "level": "Level 2",
-    "group": "Second Semester",
-    "code": "CSD230",
-    "name": "Analysis of Algorithms"
-  },
-  {
-    "year": "2025-2026",
     "program": "Information Systems",
     "level": "Level 2",
     "group": "Second Semester",
@@ -760,23 +497,13 @@ window.COURSES=[
     "name": "Electronic Business"
   },
   {
-    "year": "2025-2026",
     "program": "Information Systems",
-    "level": "Level 3",
+    "level": "Level 2",
     "group": "Elective Courses",
-    "code": "CSD334",
-    "name": "Digital Image Processing"
+    "code": "ISD232",
+    "name": "Web Technology"
   },
   {
-    "year": "2025-2026",
-    "program": "Information Systems",
-    "level": "Level 3",
-    "group": "Elective Courses",
-    "code": "CSD342",
-    "name": "Advanced Programming Languages"
-  },
-  {
-    "year": "2025-2026",
     "program": "Information Systems",
     "level": "Level 3",
     "group": "Elective Courses",
@@ -784,31 +511,6 @@ window.COURSES=[
     "name": "Information Visualization"
   },
   {
-    "year": "2025-2026",
-    "program": "Information Systems",
-    "level": "Level 3",
-    "group": "Elective Courses",
-    "code": "ISD334",
-    "name": "Management Information Systems"
-  },
-  {
-    "year": "2025-2026",
-    "program": "Information Systems",
-    "level": "Level 3",
-    "group": "Elective Courses",
-    "code": "ISD352",
-    "name": "Knowledge Representation and Reasoning"
-  },
-  {
-    "year": "2025-2026",
-    "program": "Information Systems",
-    "level": "Level 3",
-    "group": "First Semester",
-    "code": "CSD339",
-    "name": "Mobile Computing"
-  },
-  {
-    "year": "2025-2026",
     "program": "Information Systems",
     "level": "Level 3",
     "group": "First Semester",
@@ -816,7 +518,6 @@ window.COURSES=[
     "name": "Information Retrieval Systems"
   },
   {
-    "year": "2025-2026",
     "program": "Information Systems",
     "level": "Level 3",
     "group": "First Semester",
@@ -824,7 +525,6 @@ window.COURSES=[
     "name": "Data Management and Analysis"
   },
   {
-    "year": "2025-2026",
     "program": "Information Systems",
     "level": "Level 3",
     "group": "First Semester",
@@ -832,39 +532,13 @@ window.COURSES=[
     "name": "Decision Support Systems"
   },
   {
-    "year": "2025-2026",
     "program": "Information Systems",
     "level": "Level 3",
-    "group": "First Semester",
-    "code": "ISD338",
-    "name": "Big Data Analysis"
+    "group": "Elective Courses",
+    "code": "ISD334",
+    "name": "Management Information Systems"
   },
   {
-    "year": "2025-2026",
-    "program": "Information Systems",
-    "level": "Level 3",
-    "group": "First Semester",
-    "code": "ISD347",
-    "name": "Computer Network Management"
-  },
-  {
-    "year": "2025-2026",
-    "program": "Information Systems",
-    "level": "Level 3",
-    "group": "Second Semester",
-    "code": "CSD331",
-    "name": "Artificial Intelligence"
-  },
-  {
-    "year": "2025-2026",
-    "program": "Information Systems",
-    "level": "Level 3",
-    "group": "Second Semester",
-    "code": "CSD341",
-    "name": "Software Engineering"
-  },
-  {
-    "year": "2025-2026",
     "program": "Information Systems",
     "level": "Level 3",
     "group": "Second Semester",
@@ -872,7 +546,6 @@ window.COURSES=[
     "name": "Advanced Database Systems"
   },
   {
-    "year": "2025-2026",
     "program": "Information Systems",
     "level": "Level 3",
     "group": "Second Semester",
@@ -880,7 +553,27 @@ window.COURSES=[
     "name": "Information Security"
   },
   {
-    "year": "2025-2026",
+    "program": "Information Systems",
+    "level": "Level 3",
+    "group": "First Semester",
+    "code": "ISD338",
+    "name": "Big Data Analysis"
+  },
+  {
+    "program": "Information Systems",
+    "level": "Level 3",
+    "group": "First Semester",
+    "code": "ISD347",
+    "name": "Computer Network Management"
+  },
+  {
+    "program": "Information Systems",
+    "level": "Level 3",
+    "group": "Elective Courses",
+    "code": "ISD352",
+    "name": "Knowledge Representation and Reasoning"
+  },
+  {
     "program": "Information Systems",
     "level": "Level 3",
     "group": "Second Semester",
@@ -888,79 +581,6 @@ window.COURSES=[
     "name": "Electronic Government"
   },
   {
-    "year": "2025-2026",
-    "program": "Information Systems",
-    "level": "Level 4",
-    "group": "Elective Courses",
-    "code": "CSD446",
-    "name": "Optimization Systems"
-  },
-  {
-    "year": "2025-2026",
-    "program": "Information Systems",
-    "level": "Level 4",
-    "group": "Elective Courses",
-    "code": "ISD448",
-    "name": "Selected Topics in Information Systems"
-  },
-  {
-    "year": "2025-2026",
-    "program": "Information Systems",
-    "level": "Level 4",
-    "group": "Elective Courses",
-    "code": "ISD449",
-    "name": "Expert Systems"
-  },
-  {
-    "year": "2025-2026",
-    "program": "Information Systems",
-    "level": "Level 4",
-    "group": "Elective Courses",
-    "code": "ISD451",
-    "name": "XML Databases"
-  },
-  {
-    "year": "2025-2026",
-    "program": "Information Systems",
-    "level": "Level 4",
-    "group": "Elective Courses",
-    "code": "ISD452",
-    "name": "Electronic Commerce"
-  },
-  {
-    "year": "2025-2026",
-    "program": "Information Systems",
-    "level": "Level 4",
-    "group": "Elective Courses",
-    "code": "ISD453",
-    "name": "Web Information Systems"
-  },
-  {
-    "year": "2025-2026",
-    "program": "Information Systems",
-    "level": "Level 4",
-    "group": "Elective Courses",
-    "code": "ISD454",
-    "name": "Cloud Computing Applications"
-  },
-  {
-    "year": "2025-2026",
-    "program": "Information Systems",
-    "level": "Level 4",
-    "group": "Elective Courses",
-    "code": "ISD455",
-    "name": "Electronic Health"
-  },
-  {
-    "year": "2025-2026",
-    "program": "Information Systems",
-    "level": "Level 4",
-    "group": "Elective Courses",
-    "code": "ISD456",
-    "name": "Quantum Information"
-  },
-  {
-    "year": "2025-2026",
     "program": "Information Systems",
     "level": "Level 4",
     "group": "First Semester",
@@ -968,7 +588,6 @@ window.COURSES=[
     "name": "Bioinformatics"
   },
   {
-    "year": "2025-2026",
     "program": "Information Systems",
     "level": "Level 4",
     "group": "First Semester",
@@ -976,31 +595,6 @@ window.COURSES=[
     "name": "Medical Information Systems"
   },
   {
-    "year": "2025-2026",
-    "program": "Information Systems",
-    "level": "Level 4",
-    "group": "First Semester",
-    "code": "ISD471",
-    "name": "Data Mining"
-  },
-  {
-    "year": "2025-2026",
-    "program": "Information Systems",
-    "level": "Level 4",
-    "group": "Second Semester",
-    "code": "CSD445",
-    "name": "Introduction to Machine Learning"
-  },
-  {
-    "year": "2025-2026",
-    "program": "Information Systems",
-    "level": "Level 4",
-    "group": "Second Semester",
-    "code": "CSD458",
-    "name": "Cyber Security"
-  },
-  {
-    "year": "2025-2026",
     "program": "Information Systems",
     "level": "Level 4",
     "group": "Second Semester",
@@ -1008,11 +602,290 @@ window.COURSES=[
     "name": "Geographical Information Systems"
   },
   {
-    "year": "2025-2026",
     "program": "Information Systems",
     "level": "Level 4",
     "group": "Second Semester",
     "code": "ISD446",
     "name": "Graduation Project"
+  },
+  {
+    "program": "Information Systems",
+    "level": "Level 4",
+    "group": "Elective Courses",
+    "code": "ISD448",
+    "name": "Selected Topics in Information Systems"
+  },
+  {
+    "program": "Information Systems",
+    "level": "Level 4",
+    "group": "Elective Courses",
+    "code": "ISD449",
+    "name": "Expert Systems"
+  },
+  {
+    "program": "Information Systems",
+    "level": "Level 4",
+    "group": "Elective Courses",
+    "code": "ISD451",
+    "name": "XML Databases"
+  },
+  {
+    "program": "Information Systems",
+    "level": "Level 4",
+    "group": "Elective Courses",
+    "code": "ISD452",
+    "name": "Electronic Commerce"
+  },
+  {
+    "program": "Information Systems",
+    "level": "Level 4",
+    "group": "Elective Courses",
+    "code": "ISD453",
+    "name": "Web Information Systems"
+  },
+  {
+    "program": "Information Systems",
+    "level": "Level 4",
+    "group": "Elective Courses",
+    "code": "ISD454",
+    "name": "Cloud Computing Applications"
+  },
+  {
+    "program": "Information Systems",
+    "level": "Level 4",
+    "group": "First Semester",
+    "code": "ISD455",
+    "name": "Electronic Health"
+  },
+  {
+    "program": "Information Systems",
+    "level": "Level 4",
+    "group": "Elective Courses",
+    "code": "ISD456",
+    "name": "Quantum Information"
+  },
+  {
+    "program": "Information Systems",
+    "level": "Level 4",
+    "group": "First Semester",
+    "code": "ISD471",
+    "name": "Data Mining"
+  },
+  {
+    "program": "Information Systems",
+    "level": "Level 1",
+    "group": "First Semester",
+    "code": "BSD101",
+    "name": "Calculus"
+  },
+  {
+    "program": "Information Systems",
+    "level": "Level 1",
+    "group": "First Semester",
+    "code": "BSD103",
+    "name": "Discrete Mathematics"
+  },
+  {
+    "program": "Information Systems",
+    "level": "Level 1",
+    "group": "Second Semester",
+    "code": "BSD104",
+    "name": "Linear Algebra"
+  },
+  {
+    "program": "Information Systems",
+    "level": "Level 1",
+    "group": "Second Semester",
+    "code": "BSD105",
+    "name": "Statistics and Probabilities"
+  },
+  {
+    "program": "Information Systems",
+    "level": "Level 2",
+    "group": "First Semester",
+    "code": "BSD220",
+    "name": "Stochastic Processes"
+  },
+  {
+    "program": "Information Systems",
+    "level": "Level 2",
+    "group": "First Semester",
+    "code": "BSD222",
+    "name": "Operations Research"
+  },
+  {
+    "program": "Information Systems",
+    "level": "Level 2",
+    "group": "Second Semester",
+    "code": "BSD226",
+    "name": "Technical Writing"
+  },
+  {
+    "program": "Information Systems",
+    "level": "Level 2",
+    "group": "Second Semester",
+    "code": "BSD227",
+    "name": "Ordinary Differential Equations"
+  },
+  {
+    "program": "Information Systems",
+    "level": "Level 2",
+    "group": "Second Semester",
+    "code": "BSD228",
+    "name": "Advanced Math-1"
+  },
+  {
+    "program": "Information Systems",
+    "level": "Level 2",
+    "group": "Elective Courses",
+    "code": "BSD229",
+    "name": "Advanced Math-2"
+  },
+  {
+    "program": "Information Systems",
+    "level": "Level 2",
+    "group": "Second Semester",
+    "code": "BSD232",
+    "name": "Physics"
+  },
+  {
+    "program": "Information Systems",
+    "level": "Level 2",
+    "group": "Elective Courses",
+    "code": "BSD233",
+    "name": "Numerical Analysis"
+  },
+  {
+    "program": "Information Systems",
+    "level": "Level 2",
+    "group": "Elective Courses",
+    "code": "BSD234",
+    "name": "Partial Differential Equation and its numerical solution"
+  },
+  {
+    "program": "Information Systems",
+    "level": "Level 1",
+    "group": "Second Semester",
+    "code": "CSD101",
+    "name": "Digital Logic Design"
+  },
+  {
+    "program": "Information Systems",
+    "level": "Level 1",
+    "group": "First Semester",
+    "code": "CSD102",
+    "name": "Basics of Computer Science"
+  },
+  {
+    "program": "Information Systems",
+    "level": "Level 1",
+    "group": "Second Semester",
+    "code": "CSD106",
+    "name": "Fundamentals of Programming"
+  },
+  {
+    "program": "Information Systems",
+    "level": "Level 2",
+    "group": "First Semester",
+    "code": "CSD221",
+    "name": "Data Structures"
+  },
+  {
+    "program": "Information Systems",
+    "level": "Level 2",
+    "group": "First Semester",
+    "code": "CSD223",
+    "name": "Object Oriented Programming"
+  },
+  {
+    "program": "Information Systems",
+    "level": "Level 2",
+    "group": "Second Semester",
+    "code": "CSD230",
+    "name": "Analysis of Algorithms"
+  },
+  {
+    "program": "Information Systems",
+    "level": "Level 2",
+    "group": "Elective Courses",
+    "code": "CSD231",
+    "name": "Concepts of Programming Languages"
+  },
+  {
+    "program": "Information Systems",
+    "level": "Level 3",
+    "group": "Second Semester",
+    "code": "CSD331",
+    "name": "Artificial Intelligence"
+  },
+  {
+    "program": "Information Systems",
+    "level": "Level 3",
+    "group": "Elective Courses",
+    "code": "CSD334",
+    "name": "Digital Image Processing"
+  },
+  {
+    "program": "Information Systems",
+    "level": "Level 3",
+    "group": "First Semester",
+    "code": "CSD339",
+    "name": "Mobile Computing"
+  },
+  {
+    "program": "Information Systems",
+    "level": "Level 3",
+    "group": "Second Semester",
+    "code": "CSD341",
+    "name": "Software Engineering"
+  },
+  {
+    "program": "Information Systems",
+    "level": "Level 3",
+    "group": "Elective Courses",
+    "code": "CSD342",
+    "name": "Advanced Programming Languages"
+  },
+  {
+    "program": "Information Systems",
+    "level": "Level 4",
+    "group": "Second Semester",
+    "code": "CSD445",
+    "name": "Introduction to Machine Learning"
+  },
+  {
+    "program": "Information Systems",
+    "level": "Level 4",
+    "group": "Elective Courses",
+    "code": "CSD446",
+    "name": "Optimization Systems"
+  },
+  {
+    "program": "Information Systems",
+    "level": "Level 4",
+    "group": "Second Semester",
+    "code": "CSD458",
+    "name": "Cyber Security"
+  },
+  {
+    "program": "Information Systems",
+    "level": "Level 1",
+    "group": "First Semester",
+    "code": "UNI112",
+    "name": "English Language"
+  },
+  {
+    "program": "Information Systems",
+    "level": "Level 1",
+    "group": "First Semester",
+    "code": "UNI113",
+    "name": "Societal Issues"
+  },
+  {
+    "program": "Information Systems",
+    "level": "Level 1",
+    "group": "Second Semester",
+    "code": "UNI114",
+    "name": "Introduction to Quality"
   }
 ];
