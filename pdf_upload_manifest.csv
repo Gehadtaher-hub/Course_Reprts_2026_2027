@@ -1,0 +1,128 @@
+﻿Academic Year,Program,Level,Semester/Group,Course Code,Course Name,Results PDF Path,Survey PDF Path
+2025-2026,Computer Science,Level 1,First Semester,BSD101,Calculus,pdfs/2025-2026/computer-science/bsd101/course-results.pdf,pdfs/2025-2026/computer-science/bsd101/course-survey.pdf
+2025-2026,Computer Science,Level 1,First Semester,BSD103,Discrete Mathematics,pdfs/2025-2026/computer-science/bsd103/course-results.pdf,pdfs/2025-2026/computer-science/bsd103/course-survey.pdf
+2025-2026,Computer Science,Level 1,First Semester,CSD102,Basics of Computer Science,pdfs/2025-2026/computer-science/csd102/course-results.pdf,pdfs/2025-2026/computer-science/csd102/course-survey.pdf
+2025-2026,Computer Science,Level 1,First Semester,ISD101,Fundamentals of Information Systems,pdfs/2025-2026/computer-science/isd101/course-results.pdf,pdfs/2025-2026/computer-science/isd101/course-survey.pdf
+2025-2026,Computer Science,Level 1,First Semester,ISD102,Introduction to Database Systems,pdfs/2025-2026/computer-science/isd102/course-results.pdf,pdfs/2025-2026/computer-science/isd102/course-survey.pdf
+2025-2026,Computer Science,Level 1,First Semester,UNI112,English Language,pdfs/2025-2026/computer-science/uni112/course-results.pdf,pdfs/2025-2026/computer-science/uni112/course-survey.pdf
+2025-2026,Computer Science,Level 1,First Semester,UNI113,Societal Issues,pdfs/2025-2026/computer-science/uni113/course-results.pdf,pdfs/2025-2026/computer-science/uni113/course-survey.pdf
+2025-2026,Computer Science,Level 1,Second Semester,BSD104,Linear Algebra,pdfs/2025-2026/computer-science/bsd104/course-results.pdf,pdfs/2025-2026/computer-science/bsd104/course-survey.pdf
+2025-2026,Computer Science,Level 1,Second Semester,BSD105,Statistics and Probabilities,pdfs/2025-2026/computer-science/bsd105/course-results.pdf,pdfs/2025-2026/computer-science/bsd105/course-survey.pdf
+2025-2026,Computer Science,Level 1,Second Semester,CSD101,Digital Logic Design,pdfs/2025-2026/computer-science/csd101/course-results.pdf,pdfs/2025-2026/computer-science/csd101/course-survey.pdf
+2025-2026,Computer Science,Level 1,Second Semester,CSD106,Fundamentals of Programming,pdfs/2025-2026/computer-science/csd106/course-results.pdf,pdfs/2025-2026/computer-science/csd106/course-survey.pdf
+2025-2026,Computer Science,Level 1,Second Semester,ISD104,System Analysis and Design,pdfs/2025-2026/computer-science/isd104/course-results.pdf,pdfs/2025-2026/computer-science/isd104/course-survey.pdf
+2025-2026,Computer Science,Level 1,Second Semester,UNI114,Introduction to Quality,pdfs/2025-2026/computer-science/uni114/course-results.pdf,pdfs/2025-2026/computer-science/uni114/course-survey.pdf
+2025-2026,Computer Science,Level 2,Elective Courses,BSD229,Advanced Math-2,pdfs/2025-2026/computer-science/bsd229/course-results.pdf,pdfs/2025-2026/computer-science/bsd229/course-survey.pdf
+2025-2026,Computer Science,Level 2,Elective Courses,BSD233,Numerical Analysis,pdfs/2025-2026/computer-science/bsd233/course-results.pdf,pdfs/2025-2026/computer-science/bsd233/course-survey.pdf
+2025-2026,Computer Science,Level 2,Elective Courses,BSD234,Partial Differential Equation and its numerical solution,pdfs/2025-2026/computer-science/bsd234/course-results.pdf,pdfs/2025-2026/computer-science/bsd234/course-survey.pdf
+2025-2026,Computer Science,Level 2,Elective Courses,CSD231,Concepts of Programming Languages,pdfs/2025-2026/computer-science/csd231/course-results.pdf,pdfs/2025-2026/computer-science/csd231/course-survey.pdf
+2025-2026,Computer Science,Level 2,Elective Courses,ISD225,Information Theory,pdfs/2025-2026/computer-science/isd225/course-results.pdf,pdfs/2025-2026/computer-science/isd225/course-survey.pdf
+2025-2026,Computer Science,Level 2,Elective Courses,ISD232,Web Technology,pdfs/2025-2026/computer-science/isd232/course-results.pdf,pdfs/2025-2026/computer-science/isd232/course-survey.pdf
+2025-2026,Computer Science,Level 2,First Semester,BSD220,Stochastic Processes,pdfs/2025-2026/computer-science/bsd220/course-results.pdf,pdfs/2025-2026/computer-science/bsd220/course-survey.pdf
+2025-2026,Computer Science,Level 2,First Semester,BSD222,Operations Research,pdfs/2025-2026/computer-science/bsd222/course-results.pdf,pdfs/2025-2026/computer-science/bsd222/course-survey.pdf
+2025-2026,Computer Science,Level 2,First Semester,CSD221,Data Structures,pdfs/2025-2026/computer-science/csd221/course-results.pdf,pdfs/2025-2026/computer-science/csd221/course-survey.pdf
+2025-2026,Computer Science,Level 2,First Semester,CSD223,Object Oriented Programming,pdfs/2025-2026/computer-science/csd223/course-results.pdf,pdfs/2025-2026/computer-science/csd223/course-survey.pdf
+2025-2026,Computer Science,Level 2,First Semester,ISD224,Web Pages Programming,pdfs/2025-2026/computer-science/isd224/course-results.pdf,pdfs/2025-2026/computer-science/isd224/course-survey.pdf
+2025-2026,Computer Science,Level 2,Second Semester,BSD226,Technical Writing,pdfs/2025-2026/computer-science/bsd226/course-results.pdf,pdfs/2025-2026/computer-science/bsd226/course-survey.pdf
+2025-2026,Computer Science,Level 2,Second Semester,BSD227,Ordinary Differential Equations,pdfs/2025-2026/computer-science/bsd227/course-results.pdf,pdfs/2025-2026/computer-science/bsd227/course-survey.pdf
+2025-2026,Computer Science,Level 2,Second Semester,BSD228,Advanced Math-1,pdfs/2025-2026/computer-science/bsd228/course-results.pdf,pdfs/2025-2026/computer-science/bsd228/course-survey.pdf
+2025-2026,Computer Science,Level 2,Second Semester,BSD232,Physics,pdfs/2025-2026/computer-science/bsd232/course-results.pdf,pdfs/2025-2026/computer-science/bsd232/course-survey.pdf
+2025-2026,Computer Science,Level 2,Second Semester,CSD230,Analysis of Algorithms,pdfs/2025-2026/computer-science/csd230/course-results.pdf,pdfs/2025-2026/computer-science/csd230/course-survey.pdf
+2025-2026,Computer Science,Level 2,Second Semester,ISD229,Electronic Business,pdfs/2025-2026/computer-science/isd229/course-results.pdf,pdfs/2025-2026/computer-science/isd229/course-survey.pdf
+2025-2026,Computer Science,Level 3,Elective Courses,CSD339,Mobile Computing,pdfs/2025-2026/computer-science/csd339/course-results.pdf,pdfs/2025-2026/computer-science/csd339/course-survey.pdf
+2025-2026,Computer Science,Level 3,Elective Courses,CSD342,Advanced Programming Languages,pdfs/2025-2026/computer-science/csd342/course-results.pdf,pdfs/2025-2026/computer-science/csd342/course-survey.pdf
+2025-2026,Computer Science,Level 3,Elective Courses,CSD343,Digital Signal Processing,pdfs/2025-2026/computer-science/csd343/course-results.pdf,pdfs/2025-2026/computer-science/csd343/course-survey.pdf
+2025-2026,Computer Science,Level 3,Elective Courses,CSD344,Logic Programming,pdfs/2025-2026/computer-science/csd344/course-results.pdf,pdfs/2025-2026/computer-science/csd344/course-survey.pdf
+2025-2026,Computer Science,Level 3,Elective Courses,CSD345,Computer Arabization,pdfs/2025-2026/computer-science/csd345/course-results.pdf,pdfs/2025-2026/computer-science/csd345/course-survey.pdf
+2025-2026,Computer Science,Level 3,Elective Courses,CSD346,Human Computer Interaction,pdfs/2025-2026/computer-science/csd346/course-results.pdf,pdfs/2025-2026/computer-science/csd346/course-survey.pdf
+2025-2026,Computer Science,Level 3,Elective Courses,ISD303,Information Visualization,pdfs/2025-2026/computer-science/isd303/course-results.pdf,pdfs/2025-2026/computer-science/isd303/course-survey.pdf
+2025-2026,Computer Science,Level 3,Elective Courses,ISD335,Security and Cryptography,pdfs/2025-2026/computer-science/isd335/course-results.pdf,pdfs/2025-2026/computer-science/isd335/course-survey.pdf
+2025-2026,Computer Science,Level 3,Elective Courses,ISD338,Big Data Analysis,pdfs/2025-2026/computer-science/isd338/course-results.pdf,pdfs/2025-2026/computer-science/isd338/course-survey.pdf
+2025-2026,Computer Science,Level 3,Elective Courses,ISD352,Knowledge Representation and Reasoning,pdfs/2025-2026/computer-science/isd352/course-results.pdf,pdfs/2025-2026/computer-science/isd352/course-survey.pdf
+2025-2026,Computer Science,Level 3,First Semester,CSD331,Artificial Intelligence,pdfs/2025-2026/computer-science/csd331/course-results.pdf,pdfs/2025-2026/computer-science/csd331/course-survey.pdf
+2025-2026,Computer Science,Level 3,First Semester,CSD332,Computer Architecture,pdfs/2025-2026/computer-science/csd332/course-results.pdf,pdfs/2025-2026/computer-science/csd332/course-survey.pdf
+2025-2026,Computer Science,Level 3,First Semester,CSD333,Operating Systems,pdfs/2025-2026/computer-science/csd333/course-results.pdf,pdfs/2025-2026/computer-science/csd333/course-survey.pdf
+2025-2026,Computer Science,Level 3,First Semester,CSD334,Digital Image Processing,pdfs/2025-2026/computer-science/csd334/course-results.pdf,pdfs/2025-2026/computer-science/csd334/course-survey.pdf
+2025-2026,Computer Science,Level 3,First Semester,CSD335,Assembly Language,pdfs/2025-2026/computer-science/csd335/course-results.pdf,pdfs/2025-2026/computer-science/csd335/course-survey.pdf
+2025-2026,Computer Science,Level 3,Second Semester,CSD336,Theory and Design of Compilers,pdfs/2025-2026/computer-science/csd336/course-results.pdf,pdfs/2025-2026/computer-science/csd336/course-survey.pdf
+2025-2026,Computer Science,Level 3,Second Semester,CSD337,Computer Graphics,pdfs/2025-2026/computer-science/csd337/course-results.pdf,pdfs/2025-2026/computer-science/csd337/course-survey.pdf
+2025-2026,Computer Science,Level 3,Second Semester,CSD338,Introduction to Computer Networks,pdfs/2025-2026/computer-science/csd338/course-results.pdf,pdfs/2025-2026/computer-science/csd338/course-survey.pdf
+2025-2026,Computer Science,Level 3,Second Semester,CSD340,Simulation and Modeling,pdfs/2025-2026/computer-science/csd340/course-results.pdf,pdfs/2025-2026/computer-science/csd340/course-survey.pdf
+2025-2026,Computer Science,Level 3,Second Semester,CSD341,Software Engineering,pdfs/2025-2026/computer-science/csd341/course-results.pdf,pdfs/2025-2026/computer-science/csd341/course-survey.pdf
+2025-2026,Computer Science,Level 4,Elective Courses,CSD445,Introduction to Machine Learning,pdfs/2025-2026/computer-science/csd445/course-results.pdf,pdfs/2025-2026/computer-science/csd445/course-survey.pdf
+2025-2026,Computer Science,Level 4,Elective Courses,CSD446,Optimization Methods,pdfs/2025-2026/computer-science/csd446/course-results.pdf,pdfs/2025-2026/computer-science/csd446/course-survey.pdf
+2025-2026,Computer Science,Level 4,Elective Courses,CSD448,Parallel Processing,pdfs/2025-2026/computer-science/csd448/course-results.pdf,pdfs/2025-2026/computer-science/csd448/course-survey.pdf
+2025-2026,Computer Science,Level 4,Elective Courses,CSD452,Dynamic Languages,pdfs/2025-2026/computer-science/csd452/course-results.pdf,pdfs/2025-2026/computer-science/csd452/course-survey.pdf
+2025-2026,Computer Science,Level 4,Elective Courses,CSD453,Introduction to Quantum Computing,pdfs/2025-2026/computer-science/csd453/course-results.pdf,pdfs/2025-2026/computer-science/csd453/course-survey.pdf
+2025-2026,Computer Science,Level 4,Elective Courses,CSD455,Selected Topics in Computer Science,pdfs/2025-2026/computer-science/csd455/course-results.pdf,pdfs/2025-2026/computer-science/csd455/course-survey.pdf
+2025-2026,Computer Science,Level 4,Elective Courses,CSD458,Cyber Security,pdfs/2025-2026/computer-science/csd458/course-results.pdf,pdfs/2025-2026/computer-science/csd458/course-survey.pdf
+2025-2026,Computer Science,Level 4,Elective Courses,ISD441,Bioinformatics,pdfs/2025-2026/computer-science/isd441/course-results.pdf,pdfs/2025-2026/computer-science/isd441/course-survey.pdf
+2025-2026,Computer Science,Level 4,Elective Courses,ISD471,Data Mining,pdfs/2025-2026/computer-science/isd471/course-results.pdf,pdfs/2025-2026/computer-science/isd471/course-survey.pdf
+2025-2026,Computer Science,Level 4,First Semester,CSD441,Mobile Communication Systems,pdfs/2025-2026/computer-science/csd441/course-results.pdf,pdfs/2025-2026/computer-science/csd441/course-survey.pdf
+2025-2026,Computer Science,Level 4,First Semester,CSD443,Computer Vision Systems,pdfs/2025-2026/computer-science/csd443/course-results.pdf,pdfs/2025-2026/computer-science/csd443/course-survey.pdf
+2025-2026,Computer Science,Level 4,First Semester,CSD444,Distributed Systems,pdfs/2025-2026/computer-science/csd444/course-results.pdf,pdfs/2025-2026/computer-science/csd444/course-survey.pdf
+2025-2026,Computer Science,Level 4,Second Semester,CSD442,Neural Networks and Deep Learning,pdfs/2025-2026/computer-science/csd442/course-results.pdf,pdfs/2025-2026/computer-science/csd442/course-survey.pdf
+2025-2026,Computer Science,Level 4,Second Semester,CSD447,Cloud Computing,pdfs/2025-2026/computer-science/csd447/course-results.pdf,pdfs/2025-2026/computer-science/csd447/course-survey.pdf
+2025-2026,Computer Science,Level 4,Second Semester,CSD451,Computer and Network Security,pdfs/2025-2026/computer-science/csd451/course-results.pdf,pdfs/2025-2026/computer-science/csd451/course-survey.pdf
+2025-2026,Information Systems,Level 1,First Semester,BSD101,Calculus,pdfs/2025-2026/information-systems/bsd101/course-results.pdf,pdfs/2025-2026/information-systems/bsd101/course-survey.pdf
+2025-2026,Information Systems,Level 1,First Semester,BSD103,Discrete Mathematics,pdfs/2025-2026/information-systems/bsd103/course-results.pdf,pdfs/2025-2026/information-systems/bsd103/course-survey.pdf
+2025-2026,Information Systems,Level 1,First Semester,CSD102,Basics of Computer Science,pdfs/2025-2026/information-systems/csd102/course-results.pdf,pdfs/2025-2026/information-systems/csd102/course-survey.pdf
+2025-2026,Information Systems,Level 1,First Semester,ISD101,Fundamentals of Information Systems,pdfs/2025-2026/information-systems/isd101/course-results.pdf,pdfs/2025-2026/information-systems/isd101/course-survey.pdf
+2025-2026,Information Systems,Level 1,First Semester,ISD102,Introduction to Database Systems,pdfs/2025-2026/information-systems/isd102/course-results.pdf,pdfs/2025-2026/information-systems/isd102/course-survey.pdf
+2025-2026,Information Systems,Level 1,First Semester,UNI112,English Language,pdfs/2025-2026/information-systems/uni112/course-results.pdf,pdfs/2025-2026/information-systems/uni112/course-survey.pdf
+2025-2026,Information Systems,Level 1,First Semester,UNI113,Societal Issues,pdfs/2025-2026/information-systems/uni113/course-results.pdf,pdfs/2025-2026/information-systems/uni113/course-survey.pdf
+2025-2026,Information Systems,Level 1,Second Semester,BSD104,Linear Algebra,pdfs/2025-2026/information-systems/bsd104/course-results.pdf,pdfs/2025-2026/information-systems/bsd104/course-survey.pdf
+2025-2026,Information Systems,Level 1,Second Semester,BSD105,Statistics and Probabilities,pdfs/2025-2026/information-systems/bsd105/course-results.pdf,pdfs/2025-2026/information-systems/bsd105/course-survey.pdf
+2025-2026,Information Systems,Level 1,Second Semester,CSD101,Digital Logic Design,pdfs/2025-2026/information-systems/csd101/course-results.pdf,pdfs/2025-2026/information-systems/csd101/course-survey.pdf
+2025-2026,Information Systems,Level 1,Second Semester,CSD106,Fundamentals of Programming,pdfs/2025-2026/information-systems/csd106/course-results.pdf,pdfs/2025-2026/information-systems/csd106/course-survey.pdf
+2025-2026,Information Systems,Level 1,Second Semester,ISD104,System Analysis and Design,pdfs/2025-2026/information-systems/isd104/course-results.pdf,pdfs/2025-2026/information-systems/isd104/course-survey.pdf
+2025-2026,Information Systems,Level 1,Second Semester,UNI114,Introduction to Quality,pdfs/2025-2026/information-systems/uni114/course-results.pdf,pdfs/2025-2026/information-systems/uni114/course-survey.pdf
+2025-2026,Information Systems,Level 2,Elective Courses,BSD229,Advanced Math-2,pdfs/2025-2026/information-systems/bsd229/course-results.pdf,pdfs/2025-2026/information-systems/bsd229/course-survey.pdf
+2025-2026,Information Systems,Level 2,Elective Courses,BSD233,Numerical Analysis,pdfs/2025-2026/information-systems/bsd233/course-results.pdf,pdfs/2025-2026/information-systems/bsd233/course-survey.pdf
+2025-2026,Information Systems,Level 2,Elective Courses,BSD234,Partial Differential Equation and its numerical solution,pdfs/2025-2026/information-systems/bsd234/course-results.pdf,pdfs/2025-2026/information-systems/bsd234/course-survey.pdf
+2025-2026,Information Systems,Level 2,Elective Courses,CSD231,Concepts of Programming Languages,pdfs/2025-2026/information-systems/csd231/course-results.pdf,pdfs/2025-2026/information-systems/csd231/course-survey.pdf
+2025-2026,Information Systems,Level 2,Elective Courses,ISD225,Information Theory,pdfs/2025-2026/information-systems/isd225/course-results.pdf,pdfs/2025-2026/information-systems/isd225/course-survey.pdf
+2025-2026,Information Systems,Level 2,Elective Courses,ISD232,Web Technology,pdfs/2025-2026/information-systems/isd232/course-results.pdf,pdfs/2025-2026/information-systems/isd232/course-survey.pdf
+2025-2026,Information Systems,Level 2,First Semester,BSD220,Stochastic Processes,pdfs/2025-2026/information-systems/bsd220/course-results.pdf,pdfs/2025-2026/information-systems/bsd220/course-survey.pdf
+2025-2026,Information Systems,Level 2,First Semester,BSD222,Operations Research,pdfs/2025-2026/information-systems/bsd222/course-results.pdf,pdfs/2025-2026/information-systems/bsd222/course-survey.pdf
+2025-2026,Information Systems,Level 2,First Semester,CSD221,Data Structures,pdfs/2025-2026/information-systems/csd221/course-results.pdf,pdfs/2025-2026/information-systems/csd221/course-survey.pdf
+2025-2026,Information Systems,Level 2,First Semester,CSD223,Object Oriented Programming,pdfs/2025-2026/information-systems/csd223/course-results.pdf,pdfs/2025-2026/information-systems/csd223/course-survey.pdf
+2025-2026,Information Systems,Level 2,First Semester,ISD224,Web Pages Programming,pdfs/2025-2026/information-systems/isd224/course-results.pdf,pdfs/2025-2026/information-systems/isd224/course-survey.pdf
+2025-2026,Information Systems,Level 2,Second Semester,BSD226,Technical Writing,pdfs/2025-2026/information-systems/bsd226/course-results.pdf,pdfs/2025-2026/information-systems/bsd226/course-survey.pdf
+2025-2026,Information Systems,Level 2,Second Semester,BSD227,Ordinary Differential Equations,pdfs/2025-2026/information-systems/bsd227/course-results.pdf,pdfs/2025-2026/information-systems/bsd227/course-survey.pdf
+2025-2026,Information Systems,Level 2,Second Semester,BSD228,Advanced Math-1,pdfs/2025-2026/information-systems/bsd228/course-results.pdf,pdfs/2025-2026/information-systems/bsd228/course-survey.pdf
+2025-2026,Information Systems,Level 2,Second Semester,BSD232,Physics,pdfs/2025-2026/information-systems/bsd232/course-results.pdf,pdfs/2025-2026/information-systems/bsd232/course-survey.pdf
+2025-2026,Information Systems,Level 2,Second Semester,CSD230,Analysis of Algorithms,pdfs/2025-2026/information-systems/csd230/course-results.pdf,pdfs/2025-2026/information-systems/csd230/course-survey.pdf
+2025-2026,Information Systems,Level 2,Second Semester,ISD229,Electronic Business,pdfs/2025-2026/information-systems/isd229/course-results.pdf,pdfs/2025-2026/information-systems/isd229/course-survey.pdf
+2025-2026,Information Systems,Level 3,Elective Courses,CSD334,Digital Image Processing,pdfs/2025-2026/information-systems/csd334/course-results.pdf,pdfs/2025-2026/information-systems/csd334/course-survey.pdf
+2025-2026,Information Systems,Level 3,Elective Courses,CSD342,Advanced Programming Languages,pdfs/2025-2026/information-systems/csd342/course-results.pdf,pdfs/2025-2026/information-systems/csd342/course-survey.pdf
+2025-2026,Information Systems,Level 3,Elective Courses,ISD303,Information Visualization,pdfs/2025-2026/information-systems/isd303/course-results.pdf,pdfs/2025-2026/information-systems/isd303/course-survey.pdf
+2025-2026,Information Systems,Level 3,Elective Courses,ISD334,Management Information Systems,pdfs/2025-2026/information-systems/isd334/course-results.pdf,pdfs/2025-2026/information-systems/isd334/course-survey.pdf
+2025-2026,Information Systems,Level 3,Elective Courses,ISD352,Knowledge Representation and Reasoning,pdfs/2025-2026/information-systems/isd352/course-results.pdf,pdfs/2025-2026/information-systems/isd352/course-survey.pdf
+2025-2026,Information Systems,Level 3,First Semester,CSD339,Mobile Computing,pdfs/2025-2026/information-systems/csd339/course-results.pdf,pdfs/2025-2026/information-systems/csd339/course-survey.pdf
+2025-2026,Information Systems,Level 3,First Semester,ISD331,Information Retrieval Systems,pdfs/2025-2026/information-systems/isd331/course-results.pdf,pdfs/2025-2026/information-systems/isd331/course-survey.pdf
+2025-2026,Information Systems,Level 3,First Semester,ISD332,Data Management and Analysis,pdfs/2025-2026/information-systems/isd332/course-results.pdf,pdfs/2025-2026/information-systems/isd332/course-survey.pdf
+2025-2026,Information Systems,Level 3,First Semester,ISD333,Decision Support Systems,pdfs/2025-2026/information-systems/isd333/course-results.pdf,pdfs/2025-2026/information-systems/isd333/course-survey.pdf
+2025-2026,Information Systems,Level 3,First Semester,ISD338,Big Data Analysis,pdfs/2025-2026/information-systems/isd338/course-results.pdf,pdfs/2025-2026/information-systems/isd338/course-survey.pdf
+2025-2026,Information Systems,Level 3,First Semester,ISD347,Computer Network Management,pdfs/2025-2026/information-systems/isd347/course-results.pdf,pdfs/2025-2026/information-systems/isd347/course-survey.pdf
+2025-2026,Information Systems,Level 3,Second Semester,CSD331,Artificial Intelligence,pdfs/2025-2026/information-systems/csd331/course-results.pdf,pdfs/2025-2026/information-systems/csd331/course-survey.pdf
+2025-2026,Information Systems,Level 3,Second Semester,CSD341,Software Engineering,pdfs/2025-2026/information-systems/csd341/course-results.pdf,pdfs/2025-2026/information-systems/csd341/course-survey.pdf
+2025-2026,Information Systems,Level 3,Second Semester,ISD336,Advanced Database Systems,pdfs/2025-2026/information-systems/isd336/course-results.pdf,pdfs/2025-2026/information-systems/isd336/course-survey.pdf
+2025-2026,Information Systems,Level 3,Second Semester,ISD337,Information Security,pdfs/2025-2026/information-systems/isd337/course-results.pdf,pdfs/2025-2026/information-systems/isd337/course-survey.pdf
+2025-2026,Information Systems,Level 3,Second Semester,ISD365,Electronic Government,pdfs/2025-2026/information-systems/isd365/course-results.pdf,pdfs/2025-2026/information-systems/isd365/course-survey.pdf
+2025-2026,Information Systems,Level 4,Elective Courses,CSD446,Optimization Systems,pdfs/2025-2026/information-systems/csd446/course-results.pdf,pdfs/2025-2026/information-systems/csd446/course-survey.pdf
+2025-2026,Information Systems,Level 4,Elective Courses,ISD448,Selected Topics in Information Systems,pdfs/2025-2026/information-systems/isd448/course-results.pdf,pdfs/2025-2026/information-systems/isd448/course-survey.pdf
+2025-2026,Information Systems,Level 4,Elective Courses,ISD449,Expert Systems,pdfs/2025-2026/information-systems/isd449/course-results.pdf,pdfs/2025-2026/information-systems/isd449/course-survey.pdf
+2025-2026,Information Systems,Level 4,Elective Courses,ISD451,XML Databases,pdfs/2025-2026/information-systems/isd451/course-results.pdf,pdfs/2025-2026/information-systems/isd451/course-survey.pdf
+2025-2026,Information Systems,Level 4,Elective Courses,ISD452,Electronic Commerce,pdfs/2025-2026/information-systems/isd452/course-results.pdf,pdfs/2025-2026/information-systems/isd452/course-survey.pdf
+2025-2026,Information Systems,Level 4,Elective Courses,ISD453,Web Information Systems,pdfs/2025-2026/information-systems/isd453/course-results.pdf,pdfs/2025-2026/information-systems/isd453/course-survey.pdf
+2025-2026,Information Systems,Level 4,Elective Courses,ISD454,Cloud Computing Applications,pdfs/2025-2026/information-systems/isd454/course-results.pdf,pdfs/2025-2026/information-systems/isd454/course-survey.pdf
+2025-2026,Information Systems,Level 4,Elective Courses,ISD455,Electronic Health,pdfs/2025-2026/information-systems/isd455/course-results.pdf,pdfs/2025-2026/information-systems/isd455/course-survey.pdf
+2025-2026,Information Systems,Level 4,Elective Courses,ISD456,Quantum Information,pdfs/2025-2026/information-systems/isd456/course-results.pdf,pdfs/2025-2026/information-systems/isd456/course-survey.pdf
+2025-2026,Information Systems,Level 4,First Semester,ISD441,Bioinformatics,pdfs/2025-2026/information-systems/isd441/course-results.pdf,pdfs/2025-2026/information-systems/isd441/course-survey.pdf
+2025-2026,Information Systems,Level 4,First Semester,ISD444,Medical Information Systems,pdfs/2025-2026/information-systems/isd444/course-results.pdf,pdfs/2025-2026/information-systems/isd444/course-survey.pdf
+2025-2026,Information Systems,Level 4,First Semester,ISD471,Data Mining,pdfs/2025-2026/information-systems/isd471/course-results.pdf,pdfs/2025-2026/information-systems/isd471/course-survey.pdf
+2025-2026,Information Systems,Level 4,Second Semester,CSD445,Introduction to Machine Learning,pdfs/2025-2026/information-systems/csd445/course-results.pdf,pdfs/2025-2026/information-systems/csd445/course-survey.pdf
+2025-2026,Information Systems,Level 4,Second Semester,CSD458,Cyber Security,pdfs/2025-2026/information-systems/csd458/course-results.pdf,pdfs/2025-2026/information-systems/csd458/course-survey.pdf
+2025-2026,Information Systems,Level 4,Second Semester,ISD445,Geographical Information Systems,pdfs/2025-2026/information-systems/isd445/course-results.pdf,pdfs/2025-2026/information-systems/isd445/course-survey.pdf
+2025-2026,Information Systems,Level 4,Second Semester,ISD446,Graduation Project,pdfs/2025-2026/information-systems/isd446/course-results.pdf,pdfs/2025-2026/information-systems/isd446/course-survey.pdf
