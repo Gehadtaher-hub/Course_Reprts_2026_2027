@@ -520,7 +520,7 @@ window.COURSES = [
   {
     "program": "Information Systems",
     "level": "Level 3",
-    "group": "First Semester",
+    "group": "Elective Courses",
     "code": "ISD332",
     "name": "Data Management and Analysis"
   },
