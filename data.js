@@ -226,7 +226,7 @@ window.COURSES = [
   {
     "program": "Computer Science",
     "level": "Level 4",
-    "group": "First Semester",
+    "group": "Elective Courses",
     "code": "CSD452",
     "name": "Dynamic Languages"
   },
@@ -295,7 +295,7 @@ window.COURSES = [
   },
   {
     "program": "Computer Science",
-    "level": "Level 2",
+    "level": "Level 1",
     "group": "Second Semester",
     "code": "BSD226",
     "name": "Technical Writing"
@@ -653,7 +653,7 @@ window.COURSES = [
   {
     "program": "Information Systems",
     "level": "Level 4",
-    "group": "First Semester",
+    "group": "Elective Courses",
     "code": "ISD455",
     "name": "Electronic Health"
   },
@@ -715,7 +715,7 @@ window.COURSES = [
   },
   {
     "program": "Information Systems",
-    "level": "Level 2",
+    "level": "Level 1",
     "group": "Second Semester",
     "code": "BSD226",
     "name": "Technical Writing"
